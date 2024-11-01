@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-✨🌹🌸✨
+✨🌹
 <!--
 **veryshiny/veryshiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some of the projects I've worked on.
+Here are some of the projects I've worked on!
+🌸✨
