@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Take a look at some of my projects.
 
 ✨🌹
 <!--
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some of the projects I've worked on! Ask me about pretty heatmaps.
+Ask me about my pretty heatmaps!
 
 🌸✨
