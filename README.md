@@ -1,4 +1,4 @@
-## Hi there 👋 Take a look at some of my projects.
+## Hi there, please take a look at some of my projects.
 
 ✨🌹
 <!--
