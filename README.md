@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some of the projects I've worked on!
+Here are some of the projects I've worked on! Ask me about pretty heatmaps.
 
 🌸✨
