@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ask me about my pretty heatmaps!
+Ask me about pretty heatmap tips!
 
 🌸✨
