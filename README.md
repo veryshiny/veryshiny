@@ -1,8 +1,9 @@
-## Hi there, please take a look at some of my projects.
+![Header](./your-header-image-name.png)
 
-✨🌹
 <!--
+✨🌹
 **veryshiny/veryshiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, please take a look at some of my projects.
 
 Here are some ideas to get you started:
 
@@ -14,8 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Ask me about pretty heatmap tips!
 
 🌸✨
+-->
+
+
